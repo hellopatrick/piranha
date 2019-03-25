@@ -1,0 +1,7 @@
+[package]
+name = "piranha"
+version = "0.1.0"
+authors = ["Patrick Rogers <patrick@donotforget.xyz>"]
+edition = "2018"
+
+[dependencies]
