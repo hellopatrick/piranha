@@ -1,2 +1,6 @@
 /target
 **/*.rs.bk
+
+tests/data
+
+.DS_Store
